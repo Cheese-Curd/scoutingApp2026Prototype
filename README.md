@@ -3,10 +3,8 @@ Hello, and welcome to the Scouting App 2026 prototype!
 
 We created this website to support newer FRC teams in Indiana. Being a new FRC team can be challenging due to limited materials and time, and we wanted to help by developing a web-based scouting app that teams can quickly start using and easily modify to fit their needs.
 
-This is a PWA, which stands for Progressive Web Application.
-A PWA requires an internet connection at first, but after, caches all the data to run offline.
-
 While we would love to make this an app, there are no easy ways to turn this HTML5 based site into an app while allowing mobile support.
+If you are okay with no mobile support, I request using [Electron](https://www.electronjs.org/).
 
 ---
 ## How do we collect the data?
@@ -23,8 +21,7 @@ Things you need to do:
 1. Make an interactive map of the seasons game (Objective Screen).
 2. Improve on how you can collect data, we only gave you a simple qr code.
 3. Change the design on how you think it would look better.
-4. Install Node.js and run a server to make it pwa for your end.
-5. Give the website a domain. ([Github Sites](https://docs.github.com/en/pages) are free!).
+4. Give the website a domain. ([Github Sites](https://docs.github.com/en/pages) are free!).
 ---
 If you're new to Web development, then there are several different resources.
 1. [W3Schools](https://www.w3schools.com/)
